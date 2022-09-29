@@ -110,13 +110,17 @@ Responsables: Ricardo Juan Jesús y Sandra Karina.
 
 2. Enviar audio.
 
-Prioridad: Media
+Prioridad: De alta a media.
 
 Estimación: Un mes de trabajo.
 
 Cómo probarlo: Presionar el mismo botón dos veces para iniciar grabación y revisar que se haya enviado al contacto.
 
 Responsables: Ricardo Juan Jesús y Sandra Karina.
+
+3. Tomar temperatura.
+
+Prioridad: Nula.
 
 
 # Prototipo
