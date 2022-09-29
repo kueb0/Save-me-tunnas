@@ -1,17 +1,17 @@
 # Save-me-tunnas
 
-##Integrantes:
+# Integrantes:
 
 -Ricardo Juan Jesús Gloria Gloria
 
 -Sandra Karina Álvarez González
 
 
-##Objetivo general:
+# Objetivo general:
 
 El proyecto pretende diseñar un dispositivo que sea capaz de enviar la ubicación y una señal de alerta con opción de complementar con un mensaje de audio. Para ello se tendrán contactos de emergencia predeterminados. Se piensa que pueda ser utilizado en situaciones riesgosas donde exista poco tiempo de reacción o acción. 
 
-##Objetivos específicos:
+# Objetivos específicos:
 
 -Enviar pos sms a un contacto predefinido la ubicación más sonido de alerta.
 
@@ -20,7 +20,7 @@ El proyecto pretende diseñar un dispositivo que sea capaz de enviar la ubicaci�
 -Generar una posibilidad de encontrar o rescatar personas en situaciones de peligro.
 
 
-##Software utilizado
+# Software utilizado
 
 Arduino IDE
 
@@ -29,7 +29,7 @@ Versión 2.0
 Tipo: código abierto y su código fuente estará alojado en GitHub.
 
 
-##Hardware utilizado
+# Hardware utilizado
 
 1. ESP32
 
@@ -74,33 +74,33 @@ Cantidad: 1
 Costo total: $160
 
 
-##Épicas del proyecto
+# Épicas del proyecto
 
 
-Mensaje de alerta:
+-Mensaje de alerta:
 
-Módulo GPS
+  Módulo GPS
 
-Actuador: Sonido de alerta más envió de ubicación
+  Actuador: Sonido de alerta más envió de ubicación
 
-Formma de comunicación: Envío de SMS
-
-
-
-Mensaje de voz:
-
-Sensor de voz
-
-Actuador: Led que indica grabación.
-
-Forma de comunicación: Envió de correo.
-
-
-##Tablas de usuario
+  Formma de comunicación: Envío de SMS
 
 
 
-##Prototipo
+-Mensaje de voz:
+
+  Sensor de voz
+
+  Actuador: Led que indica grabación.
+
+  Forma de comunicación: Envió de correo.
+
+
+# Tablas de usuario
+
+
+
+# Prototipo
 
 
 
