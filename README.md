@@ -125,7 +125,7 @@ Prioridad: Nula.
 
 # Prototipo
 
-![image](https://user-images.githubusercontent.com/108686186/192943121-91da29a5-37bc-405b-9d68-f5ee9acc7123.png)
+![image](https://user-images.githubusercontent.com/108686186/192945350-bf0dc77e-894d-42a0-8622-a9abd3ac8869.png)
 
 
 
