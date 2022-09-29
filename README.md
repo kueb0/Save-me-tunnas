@@ -86,7 +86,6 @@ Costo total: $160
   Formma de comunicación: Envío de SMS
 
 
-
 -Mensaje de voz:
 
   Sensor de voz
@@ -98,10 +97,31 @@ Costo total: $160
 
 # Tablas de usuario
 
+1. Enviar ubicación. 
+
+Prioridad: Máxima
+
+Estimación: Un mes de trabajo.
+
+Cómo probarlo: Presionar botón y revisar el mensaje que se le envió al contacto.
+
+Responsables: Ricardo Juan Jesús y Sandra Karina.
+
+
+2. Enviar audio.
+
+Prioridad: Media
+
+Estimación: Un mes de trabajo.
+
+Cómo probarlo: Presionar el mismo botón dos veces para iniciar grabación y revisar que se haya enviado al contacto.
+
+Responsables: Ricardo Juan Jesús y Sandra Karina.
 
 
 # Prototipo
 
+![image](https://user-images.githubusercontent.com/108686186/192943121-91da29a5-37bc-405b-9d68-f5ee9acc7123.png)
 
 
 
