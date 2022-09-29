@@ -2,6 +2,7 @@
 
 ##Integrantes:
 -Ricardo Juan Jesús Gloria Gloria
+
 -Sandra Karina Álvarez González
 
 ##Objetivo general:
@@ -25,6 +26,7 @@ Familia de chips SoC de bajo costo y consumo de energía, con tecnología Wi-Fi 
 ![image](https://user-images.githubusercontent.com/108686186/192938880-9c3dabf7-60b4-434b-a5d0-bb5decc23522.png)
 
 Cantidad: 2
+
 Costo total: $300
 
 
