@@ -1,17 +1,17 @@
 # Save-me-tunnas
 
-# Integrantes:
+## Integrantes:
 
--Ricardo Juan Jesús Gloria Gloria
+- Ricardo Juan Jesús Gloria Gloria
 
--Sandra Karina Álvarez González
+- Sandra Karina Álvarez González
 
 
-# Objetivo general:
+## Objetivo general:
 
 El proyecto pretende diseñar un dispositivo que sea capaz de enviar la ubicación y una señal de alerta con opción de complementar con un mensaje de audio. Para ello se tendrán contactos de emergencia predeterminados. Se piensa que pueda ser utilizado en situaciones riesgosas donde exista poco tiempo de reacción o acción. 
 
-# Objetivos específicos:
+### Objetivos específicos:
 
 -Enviar pos sms a un contacto predefinido la ubicación más sonido de alerta.
 
@@ -20,26 +20,23 @@ El proyecto pretende diseñar un dispositivo que sea capaz de enviar la ubicaci�
 -Generar una posibilidad de encontrar o rescatar personas en situaciones de peligro.
 
 
-# Software utilizado
+# Tabla de software utilizado
 
-Arduino IDE
+## Tabla de Software utilizado
+| Id | Software | Version | Tipo |
+|----|----------|---------|------|
+| 1   |   Arduino IDE       |    2.0     |Código abierto y su código fuente estará alojado en GitHub.      |
+|    |          |         |      |
+|    |          |         |      |
 
-Versión 2.0
 
-Tipo: código abierto y su código fuente estará alojado en GitHub.
+# Tabla de hardware utilizado
 
-
-# Hardware utilizado
-
-1. ESP32
-
-Familia de chips SoC de bajo costo y consumo de energía, con tecnología Wi-Fi y Bluetooth de modo dual integrada.
-
-![image](https://user-images.githubusercontent.com/108686186/192938880-9c3dabf7-60b4-434b-a5d0-bb5decc23522.png)
-
-Cantidad: 1
-
-Costo total: $150
+| Id | Componente | Descripción | Imagen | Cantidad | Costo total |
+|----|------------|-------------|--------|----------|-------------|
+|  1  | ESP32           |   Familia de chips SoC de bajo costo y consumo de energía, con tecnología Wi-Fi y Bluetooth de modo dual integrada.  |   ![image](https://user-images.githubusercontent.com/108686186/192938880-9c3dabf7-60b4-434b-a5d0-bb5decc23522.png)     |    1      |    $150         |
+|    |            |             |        |          |             |
+|    |            |             |        |          |             |
 
 
 2. Sensor de voz arduino
