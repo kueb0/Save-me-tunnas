@@ -60,30 +60,21 @@ Para ello se tendrán contactos de emergencia predeterminados. Se piensa que pue
 
 ## Tablas de usuario
 
-1. Enviar ubicación. 
+- Mensaje de alerta
 
-Prioridad: Máxima
+| Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
+|----|---------------------|-----------|------------|---------------|-------------|
+|  1 |  El circuito funciona  | Máxima | 1 semana  | Se demuestra conectividad entre todos los componentes. | Equipo completo |
+|  2 | La geolocalización funciona. | Máxima | 1 semana | Se evalua ubicación desde distintos puntos geográficos. | Equipo completo |
+|  3 | A la par de la geolocalización se envía el mensaje a los contactos predeterminados. | Máxima | 1 semana | Se revisa que se mande el mensaje con éxito y en el momento requerido.| Equipo completo |
 
-Estimación: Un mes de trabajo.
+- Caja fuerte
 
-Cómo probarlo: Presionar botón y revisar el mensaje que se le envió al contacto.
-
-Responsables: Ricardo Juan Jesús y Sandra Karina.
-
-
-2. Enviar audio.
-
-Prioridad: De alta a media.
-
-Estimación: Un mes de trabajo.
-
-Cómo probarlo: Presionar el mismo botón dos veces para iniciar grabación y revisar que se haya enviado al contacto.
-
-Responsables: Ricardo Juan Jesús y Sandra Karina.
-
-3. Tomar temperatura.
-
-Prioridad: Nula.
+| Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
+|----|---------------------|-----------|------------|---------------|-------------|
+| 1 | Se ensambla el mecanismo y se prueba el circuito.| Máxima.           | Una semana. | Se realizan pruebas de conectaidad. | Equipo completo  |
+| 2 | Se prueba que funcione el teclado numérico y que acepte la contraseña. | Máxima. | De 3 a 5 días. | Se hacen varios intentos y varios test para comprobar el correcto funcionamiento. | Equipo completo  |
+| 3 | Se prueban los botones.  | Alta | Menos de una semana. | Se harán varias pruebas.    | Equipo completo  |
 
 
 ## Prototipo
